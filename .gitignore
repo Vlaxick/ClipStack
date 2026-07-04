@@ -1,0 +1,16 @@
+.DS_Store
+*.swp
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS build outputs
+*.app/
+*.dmg
+dist/
+.dmg-staging/
+
+# Xcode user data, if the project is opened in Xcode later
+*.xcuserdata/
+DerivedData/
